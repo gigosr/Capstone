@@ -30,7 +30,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "69e29bfe",
+   "id": "c61bae27",
    "metadata": {},
    "source": [
     " Reading the dataset\n",
@@ -1133,7 +1133,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "08b79f75",
+   "id": "5ddd6448",
    "metadata": {},
    "source": [
     "Ploting the Year with maximum cases"
@@ -1142,7 +1142,7 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "bf9d0a01",
+   "id": "57237e60",
    "metadata": {},
    "outputs": [
     {
@@ -1169,7 +1169,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d60f976a",
+   "id": "5771be5d",
    "metadata": {},
    "source": [
     "1994 has the maximum cases of dengue "
@@ -1178,7 +1178,7 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "fc936e72",
+   "id": "9939fd37",
    "metadata": {},
    "outputs": [
     {
@@ -1204,7 +1204,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1e936599",
+   "id": "8c72807e",
    "metadata": {},
    "source": [
     "San Juan has over 30000 cases "
@@ -1213,7 +1213,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "70788427",
+   "id": "42b61c1b",
    "metadata": {},
    "outputs": [],
    "source": []
