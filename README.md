@@ -2,7 +2,7 @@
 
 Overview
 
-This project aims to predict dengue virus outbreaks using machine learning techniques. Dengue is a mosquito-borne viral disease that poses a significant public health challenge in many tropical and subtropical regions worldwide. Accurate prediction of dengue outbreaks can help healthcare providers, policymakers, and other stakeholders effectively plan and implement preventive measures, allocate resources, and mitigate the impact of the disease.
+This project aims to predict dengue virus outbreaks using machine learning techniques. 
 
 In this project, we leverage machine learning algorithms and historical dengue data to forecast dengue outbreaks. We use a combination of data preprocessing, feature engineering, and machine learning models to predict dengue cases in specific regions or areas. The models are trained on historical data and evaluated using appropriate performance metrics. The project also includes visualization and analysis of the predicted results to gain insights into the patterns and trends of dengue outbreaks.
 
