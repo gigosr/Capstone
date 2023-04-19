@@ -43,6 +43,13 @@ In this project, using the data from 1990 to 2010, I was able to create a predic
 
 The data i used was downloaded from
 (https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+The data is for two cities :San Juan, Puerto Rico, and Iquitos in Peru.
+The Data for San Juan is from 1990-2005
+the data for Iquitos is from 2000-2010
+
+
+<img width="800" alt="Screenshot 2023-04-19 at 3 23 29 PM" src="https://user-images.githubusercontent.com/121091458/233212743-55060e9c-6667-4c1a-8a64-6220e856895d.png">
+
 
 
 
