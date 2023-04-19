@@ -4,7 +4,7 @@
 AUTHOR Gligor Vasilev
 
 
-Overview
+###Overview
 
 This project aims to predict dengue virus outbreaks using machine learning techniques. 
 
@@ -18,7 +18,7 @@ The code provided in this repository allows users to easily run the dengue virus
 
 
 
-Business Understanding
+###Business Understanding
 
 Dengue is a mosquito-borne viral disease that poses a significant public health challenge in many tropical and subtropical regions worldwide. The rapid spread of the disease and its impact on healthcare resources, economic productivity, and public health make it a pressing concern for governments, healthcare providers, policymakers, and other stakeholders.
 
@@ -32,10 +32,11 @@ Risk assessment and insurance planning: Accurate prediction of dengue outbreaks 
 By addressing these business problems, this project aims to contribute to effective dengue virus control and prevention efforts, improve resource allocation, raise public awareness, and mitigate the impact of dengue outbreaks on public health and the economy.
 
 
-Project Overview
+###Project Overview
 
 This project was created to help the people in San Juan and Iquitos to get prepared for dengue virus outbreaks and to help government agencies to allocate resources.
 In this project, using the data from 1990 to 2010, I was able to create a predictive model with very minimal error, 6 cases per week for San Juan and 4 cases per week for Iquitos.
+
 
 
 
