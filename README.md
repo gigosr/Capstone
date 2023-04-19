@@ -80,5 +80,8 @@ and the second ## Arima model is for Iquitos
 ### Next steps
 
 
-<img width="825" alt="Screenshot 2023-04-18 at 9 49 40 PM" src="https://user-images.githubusercontent.com/121091458/233216072-f8c1adf7-ac8e-496f-b5ec-28a24c66e69b.png">
+1. Early detection: A prediction model with great accuracy can help in early detection of dengue virus outbreaks. This can enable health officials to take timely measures to control the spread of the disease, such as spraying insecticides, educating people about preventive measures, and providing medical treatment.
+2. Targeted interventions: With accurate prediction models, health officials can target their interventions to the areas where the risk of dengue virus transmission is highest. This can help in prioritizing the allocation of resources and implementing interventions such as vaccination campaigns or distribution of bed nets.
+3. Improved resource allocation: A prediction model with great accuracy can help in optimizing the allocation of healthcare resources. This can include the provision of adequate medical supplies and staffing of healthcare facilities in areas where the risk of dengue virus transmission is highest.
+4. Better disease monitoring: Accurate prediction models can also help in monitoring the spread of dengue virus over time, which can aid in the development of effective public health strategies and policies.
 
