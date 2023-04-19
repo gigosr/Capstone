@@ -59,3 +59,11 @@ Also the data has weather and temperature related predictors seen in the plot be
 <img width="891" alt="Screenshot 2023-04-19 at 3 31 43 PM" src="https://user-images.githubusercontent.com/121091458/233213988-c713e3d5-4fd3-49ca-af91-884b91093f55.png">
 
 
+
+#### Models
+
+For a base model i created decision tree with 
+<img width="1005" alt="Screenshot 2023-04-19 at 3 37 23 PM" src="https://user-images.githubusercontent.com/121091458/233214704-e9184f7a-e259-4403-8eae-d07460665d41.png">
+
+
+<img width="300" alt="Screenshot 2023-04-19 at 3 37 57 PM" src="https://user-images.githubusercontent.com/121091458/233214768-868f6ded-db17-4385-a15d-c26bd43030fc.png">
