@@ -1,7 +1,7 @@
 # Dengue Virus Prediction 
 
 <img width="947" alt="Screenshot 2023-04-16 at 9 58 43 PM" src="https://user-images.githubusercontent.com/121091458/232673657-23d08676-e681-4d82-96a4-11ccfbf13dc0.png">
-
+AUTHOR Gligor Vasilev
 Overview
 
 This project aims to predict dengue virus outbreaks using machine learning techniques. 
