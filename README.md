@@ -30,3 +30,13 @@ Public health messaging and education: Timely and targeted public health messagi
 Economic impact: Dengue outbreaks can have significant economic consequences, including increased healthcare costs, lost productivity due to illness, and decreased tourism in affected areas. Predicting dengue outbreaks can help businesses and policymakers plan and implement appropriate measures to mitigate the economic impact.
 Risk assessment and insurance planning: Accurate prediction of dengue outbreaks can assist insurance companies in assessing the risk of dengue-related claims and developing appropriate insurance products. It can also help individuals, businesses, and governments in planning for insurance coverage, risk management, and financial preparedness in areas prone to dengue outbreaks.
 By addressing these business problems, this project aims to contribute to effective dengue virus control and prevention efforts, improve resource allocation, raise public awareness, and mitigate the impact of dengue outbreaks on public health and the economy.
+
+
+Project Overview
+
+This project was created to help the people in San Juan and Iquitos to get prepared for dengue virus outbreaks and to help government agencies to allocate resources.
+In this project, using the data from 1990 to 2010, I was able to create a predictive model with very minimal error, 6 cases per week for San Juan and 4 cases per week for Iquitos.
+
+
+
+
