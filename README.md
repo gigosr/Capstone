@@ -40,8 +40,8 @@ In this project, using the data from 1990 to 2010, I was able to create a predic
 
 ### The Data
 
-The data i used was downloaded from [
-](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+The data i used was downloaded from
+(https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
 
 
 
