@@ -60,7 +60,7 @@ Also the data has weather and temperature related predictors seen in the plot be
 
 
 
-###### Models
+### Models
 
 For a base model i created decision tree with 
 <img width="1005" alt="Screenshot 2023-04-19 at 3 37 23 PM" src="https://user-images.githubusercontent.com/121091458/233214704-e9184f7a-e259-4403-8eae-d07460665d41.png">
