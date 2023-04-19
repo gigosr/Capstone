@@ -46,11 +46,16 @@ The data i used was downloaded from
 The data is for two cities :San Juan, Puerto Rico, and Iquitos in Peru.
 The Data for San Juan is from 1990-2005
 the data for Iquitos is from 2000-2010
+In the chart below we see the average number of cases per city per year
 
 
 <img width="800" alt="Screenshot 2023-04-19 at 3 23 29 PM" src="https://user-images.githubusercontent.com/121091458/233212743-55060e9c-6667-4c1a-8a64-6220e856895d.png">
 
+Also the data has weather and temperature related predictors seen in the plot below
 
 
+
+
+<img width="891" alt="Screenshot 2023-04-19 at 3 31 43 PM" src="https://user-images.githubusercontent.com/121091458/233213988-c713e3d5-4fd3-49ca-af91-884b91093f55.png">
 
 
