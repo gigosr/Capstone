@@ -77,3 +77,8 @@ and the second ## Arima model is for Iquitos
 <img width="622" alt="Screenshot 2023-04-19 at 3 42 16 PM" src="https://user-images.githubusercontent.com/121091458/233215312-40df8673-ff32-4622-a5b2-88413e8eaa71.png">
 
 
+### Next steps
+
+
+<img width="825" alt="Screenshot 2023-04-18 at 9 49 40 PM" src="https://user-images.githubusercontent.com/121091458/233216072-f8c1adf7-ac8e-496f-b5ec-28a24c66e69b.png">
+
