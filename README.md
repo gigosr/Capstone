@@ -85,3 +85,15 @@ and the second ## Arima model is for Iquitos
 3. Improved resource allocation: A prediction model with great accuracy can help in optimizing the allocation of healthcare resources. This can include the provision of adequate medical supplies and staffing of healthcare facilities in areas where the risk of dengue virus transmission is highest.
 4. Better disease monitoring: Accurate prediction models can also help in monitoring the spread of dengue virus over time, which can aid in the development of effective public health strategies and policies.
 
+
+### Conclusion
+
+The objective of the project is to predict the number of dengue fever cases in two cities, San Juan and Iquitos. The data used in this project is collected over a period of several years and includes various environmental and climatic factors that may influence the incidence of dengue fever. Based on the performance metrics, it can be concluded that the ARIMA model performed better than the baseline model in predicting the number of dengue fever cases in the given dataset. The ARIMA model had a lower mean absolute error (MAE) and root mean squared error (RMSE) compared to the baseline model.
+
+The ARIMA model also showed better performance in terms of the R-squared value, which indicates the proportion of variance in the target variable that can be explained by the independent variables. The ARIMA model had a higher R-squared value than the baseline model, indicating that it was able to explain a greater proportion of the variance in the target variable.
+
+Therefore, it can be concluded that the ARIMA model is a better predictor of dengue fever cases in the given dataset compared to the baseline model.
+
+Overall, the project demonstrates the potential of using time series analysis and ARIMA models for predicting the incidence of dengue fever. However, further work could be done to improve the accuracy of the models, such as incorporating additional variables or using more advanced modeling techniques.
+
+
