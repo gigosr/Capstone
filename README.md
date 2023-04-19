@@ -67,3 +67,11 @@ For a base model i created decision tree with
 
 
 <img width="300" alt="Screenshot 2023-04-19 at 3 37 57 PM" src="https://user-images.githubusercontent.com/121091458/233214768-868f6ded-db17-4385-a15d-c26bd43030fc.png">
+
+Aditionaly for my main model i created two ## ARIMA models for each city, the model below is for San Juan
+<img width="683" alt="Screenshot 2023-04-19 at 3 40 41 PM" src="https://user-images.githubusercontent.com/121091458/233215115-99b70007-090e-47ac-92e6-75531635361e.png">
+
+and the second ## Arima model is for Iquitos
+<img width="622" alt="Screenshot 2023-04-19 at 3 42 16 PM" src="https://user-images.githubusercontent.com/121091458/233215312-40df8673-ff32-4622-a5b2-88413e8eaa71.png">
+
+
